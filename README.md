@@ -11,8 +11,8 @@
 
 2. **Frontend Development**:
 
-   - Utilize Web3.js or Ethers.js to interact with the blockchain from the frontend.
-   - Design a user-friendly interface resembling a messaging app where users can sign in with their Ethereum wallet (e.g., MetaMask), view contacts, send messages, and receive notifications.
+   - Utilize wagmi to interact with the blockchain from the frontend.
+   - Design a user-friendly interface using Next.js/tailwind CSS resembling a messaging app where users can sign in with their Ethereum wallet (e.g., MetaMask), view contacts, send messages, and receive notifications.
    - Display real-time updates of incoming messages and transaction statuses.
 
 3. **Backend Development (Optional)**:
