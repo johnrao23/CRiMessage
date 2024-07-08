@@ -1,4 +1,4 @@
-# criMessage
+# CRiMessage
 
 **Purpose**: Create a decentralized messaging platform where users can send messages and interact with each other without a central server. This will be a social media messaging dApp with functionality related to iMessage
 
